@@ -1,2 +1,2 @@
 # Basic-SpringMVCEndTOEnd
-A simple example For Spring MVC
+A simple example For Spring MVC !
